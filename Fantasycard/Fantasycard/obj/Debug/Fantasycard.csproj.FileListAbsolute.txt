@@ -1,0 +1,6 @@
+D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\bin\Debug\Fantasycard.exe.config
+D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\bin\Debug\Fantasycard.exe
+D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\bin\Debug\Fantasycard.pdb
+D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\obj\Debug\Fantasycard.csprojAssemblyReference.cache
+D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\obj\Debug\Fantasycard.exe
+D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\obj\Debug\Fantasycard.pdb
