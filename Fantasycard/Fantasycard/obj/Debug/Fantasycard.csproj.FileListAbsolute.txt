@@ -4,3 +4,10 @@ D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\bin\Debug\Fantasycard.pdb
 D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\obj\Debug\Fantasycard.csprojAssemblyReference.cache
 D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\obj\Debug\Fantasycard.exe
 D:\Repos\C#\fantasyCard\Fantasycard\Fantasycard\obj\Debug\Fantasycard.pdb
+C:\Users\Diak\Desktop\Fantasycard\Fantasycard\bin\Debug\Fantasycard.exe.config
+C:\Users\Diak\Desktop\Fantasycard\Fantasycard\bin\Debug\Fantasycard.exe
+C:\Users\Diak\Desktop\Fantasycard\Fantasycard\bin\Debug\Fantasycard.pdb
+C:\Users\Diak\Desktop\Fantasycard\Fantasycard\obj\Debug\Fantasycard.csprojAssemblyReference.cache
+C:\Users\Diak\Desktop\Fantasycard\Fantasycard\obj\Debug\Fantasycard.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\Fantasycard\Fantasycard\obj\Debug\Fantasycard.exe
+C:\Users\Diak\Desktop\Fantasycard\Fantasycard\obj\Debug\Fantasycard.pdb
